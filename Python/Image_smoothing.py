@@ -1,6 +1,6 @@
 import numpy as np
 import cv2
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt 
 
 # Define the kernel size for smoothing
 kernel_size = (5, 5)  # Size of the kernel (must be odd)
