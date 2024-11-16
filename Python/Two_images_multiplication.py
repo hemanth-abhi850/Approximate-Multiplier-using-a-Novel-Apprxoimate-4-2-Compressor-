@@ -17,7 +17,7 @@ for i in range(img1.shape[0]):
             pxl_2 = DTB(img2[i, j, k])
 
             product_pxl = Binary_Multiply8(pxl_1, pxl_2)        #performing pixel to pixel multiplication using approximate multiplier
-            product_img_exact[i, j, k] = decimal(product_pxl)   # again conveting from binary to decimal
+            product_img_exact[i, j, k] = decimal(product_pxl)   # back to convet from binary to decimal
 product_img = (product_img_exact*255)/np.max(product_img_exact) # reback to original pixel size
 product_img_exact = np.round(product_img).astype("int")
 #plt.imshow(product_img)
