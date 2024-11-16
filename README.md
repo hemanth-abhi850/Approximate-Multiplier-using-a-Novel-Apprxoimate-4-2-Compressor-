@@ -32,4 +32,4 @@ The proposed designs outperform existing approaches, such as the design by Kong 
 
 If you use these designs in your work, please cite the following:
 
-> Proposed approximate 4:2 compressors using input reordering circuits and input combination probabilities for energy-efficient multipliers.
+> https://ieeexplore.ieee.org/abstract/document/10136817
