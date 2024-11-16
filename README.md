@@ -1,5 +1,6 @@
-# Approximate-Multiplier-using-a-Novel-Apprxoimate-4-2-Compressor-Designs
-
+# Energy Efficient Approximate Multiplier Design with Lesser Error Rate using the Probability-based Approximate 4: 2 Compressor
+Accepted in IEEE Embedded Letters-2024
+Author by L. Hemanth Krishna
 # Approximate 4:2 Compressors for Energy-Efficient Multipliers
 
 ## Overview
